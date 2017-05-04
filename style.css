@@ -1,0 +1,31 @@
+body {
+  background: pink;
+  padding: 20px;
+}
+
+h2 {
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+.message {
+  color: red;
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+
+form {
+  text-align: center;
+  margin: 0 auto;
+}
+
+input {
+  border: 0px;
+  background: white;
+  text-indent: 5px;
+}
+
+input:focus {
+  outline: 0px;
+}
